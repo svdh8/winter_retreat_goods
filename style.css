@@ -22,7 +22,7 @@ body {
   
   ol li {
     padding: 15px;
-    display: inline;
+    display: inline-block;
     font-size:35px;
     font-family: 'Stylish', sans-serif;
     border: 0.1em inset #f36552;
