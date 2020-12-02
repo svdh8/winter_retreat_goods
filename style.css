@@ -1,17 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
+
 body {
+    
     background-color: rgb(255, 255, 255);
-    font-family: 'Jeju Myeongjo', serif;
   }
   
   h1 {
     color: navy;
     margin-left: 20px;
+    font-size:50px;
+    font-family: 'Song Myung', serif;
+  }
+
+  h2 {
+    color: rgb(69, 42, 190);
+    font-size:30px;
+    font-family: 'Stylish', sans-serif;
   }
   
   ol li {
-    padding: 5px;
+    padding: 10px;
     margin-left: 35px;
-    font-size:25px;
+    font-size:30px;
+    font-family: 'Stylish', sans-serif;
   }
 
   
