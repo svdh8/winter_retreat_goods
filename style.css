@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Jeju Myeongjo', serif;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+  
+  ol li {
+    padding: 5px;
+    margin-left: 35px;
+  }
+
+  
+  
