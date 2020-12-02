@@ -4,27 +4,34 @@
 body {
     
     background-color: rgb(255, 255, 255);
+    text-align: center;
   }
   
   h1 {
     color: navy;
     margin-left: 20px;
-    font-size:50px;
+    font-size:60px;
     font-family: 'Song Myung', serif;
   }
 
   h2 {
-    color: rgb(69, 42, 190);
-    font-size:30px;
+    color: rgb(213, 38, 236);
+    font-size:50px;
     font-family: 'Stylish', sans-serif;
   }
   
   ol li {
-    padding: 10px;
-    margin-left: 35px;
-    font-size:30px;
+    padding: 15px;
+    display: inline;
+    font-size:35px;
     font-family: 'Stylish', sans-serif;
+    border: 0.1em inset #f36552;
   }
 
+  a { text-decoration: none; color: black; }
+  a:visited { text-decoration: none; }
+  a:hover { text-decoration: none; }
+  a:focus { text-decoration: none; }
+  a:hover, a:active { text-decoration: none; }
   
   
