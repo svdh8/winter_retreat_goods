@@ -25,7 +25,7 @@ body {
     display: inline-block;
     font-size:35px;
     font-family: 'Stylish', sans-serif;
-    border: 0.1em inset #f36552;
+    border: 0.1em groove #4bdff3;
   }
 
   a { text-decoration: none; color: black; }
